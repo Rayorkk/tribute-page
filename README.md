@@ -1,2 +1,2 @@
-# Tribute-page
+# Tribute-repo
 My first webpage 
