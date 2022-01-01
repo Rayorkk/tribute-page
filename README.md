@@ -1,2 +1,2 @@
 # Tribute
-basic webpages that honor a famouus person, which is soon to be decided
+basic webpages that honor a famous person, which is soon to be decided
